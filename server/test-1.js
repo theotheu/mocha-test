@@ -17,4 +17,5 @@ describe('tezzt', function() {
  * TODO #2: test op het bestaan van property 'sum'
  * TODO #3: pas de functie telOp aan zodat er een error opgeworpen wordt als a of b < 0
  * TODO #4: pas de functie telOp aan zodat er een error opgeworpen wordt als a of b > 100
+ * TODO #5: voeg de static-analyzer toe aan de repo
  */
